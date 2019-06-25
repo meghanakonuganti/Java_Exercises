@@ -1,0 +1,1 @@
+All exercises of java with test cases
