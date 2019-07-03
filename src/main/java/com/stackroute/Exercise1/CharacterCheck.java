@@ -1,6 +1,7 @@
 package com.stackroute.Exercise1;
 
 public class CharacterCheck {
+    //To check for the consonant and digit
     public static String check(String word1) {
         String str="";
         int len = word1.length();
